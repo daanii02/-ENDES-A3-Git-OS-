@@ -3,7 +3,7 @@ package unidad07_clases_y_herencia;
 
 /**
  *
- * @author galan
+ * @author galan otra clase de master modificada por V
  */
 public class DG {
     public static void main(String[] args) {

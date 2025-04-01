@@ -3,7 +3,7 @@ package unidad07_clases_y_herencia;
 
 /**
  *
- * @author galan
+ * @author galan MODIFICADO POR VIRGINIA EN MASTER
  */
 public class DG {
     public static void main(String[] args) {
