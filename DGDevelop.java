@@ -1,7 +1,7 @@
 
 /**
  *
- * @author galan
+ * @author galan ESTO ESTA MOPDIFICADO POR VIRGINIA
  */
 public class DGDevelop {
     public static void main(String[] args) {
